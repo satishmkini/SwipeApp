@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\srivatsam\\Downloads\\MySwipeImageViewerProject-master\\MySwipeImageViewerProject-master\\MySwipeImageViewer\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 38,
+                    "endOffset": 89
+                },
+                "from": {
+                    "file": "C:\\Users\\srivatsam\\Downloads\\MySwipeImageViewerProject-master\\MySwipeImageViewerProject-master\\MySwipeImageViewer\\src\\main\\res\\values-sw600dp\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 0,
+                        "startOffset": 51,
+                        "endColumn": 34,
+                        "endOffset": 85
+                    }
+                }
+            }
+        ]
+    }
+]

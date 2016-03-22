@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="net.hockeyapp.android"
+    android:versionCode="6"
+    android:versionName="3.7.1" >
+
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application tools:ignore="AllowBackup" >
+        <activity android:name="net.hockeyapp.android.UpdateActivity" />
+        <activity android:name="net.hockeyapp.android.FeedbackActivity" />
+        <activity android:name="net.hockeyapp.android.PaintActivity" />
+        <activity android:name="net.hockeyapp.android.LoginActivity" />
+        <activity android:name="net.hockeyapp.android.ExpiryInfoActivity" />
+    </application>
+
+</manifest>

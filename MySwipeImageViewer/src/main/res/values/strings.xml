@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Swipe Image Viewer</string>
+    <string name="action_settings">Feedback</string>
+    <string name="hello_world">Welcome to the world of MICROSOFT</string>
+    <string name="start_button">Start Slide Show</string>
+    <string name="title_activity_slide">SlideActivity</string>
+
+</resources>

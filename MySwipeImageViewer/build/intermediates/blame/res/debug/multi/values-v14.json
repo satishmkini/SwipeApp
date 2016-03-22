@@ -1,0 +1,110 @@
+[
+    {
+        "outputFile": "C:\\Users\\srivatsam\\Downloads\\MySwipeImageViewerProject-master\\MySwipeImageViewerProject-master\\MySwipeImageViewer\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 38,
+                    "endOffset": 89
+                },
+                "from": {
+                    "file": "C:\\Users\\srivatsam\\Downloads\\MySwipeImageViewerProject-master\\MySwipeImageViewerProject-master\\MySwipeImageViewer\\src\\main\\res\\values-v14\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 0,
+                        "startOffset": 51,
+                        "endColumn": 34,
+                        "endOffset": 85
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 94,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 240
+                },
+                "from": {
+                    "file": "C:\\Users\\srivatsam\\Downloads\\MySwipeImageViewerProject-master\\MySwipeImageViewerProject-master\\MySwipeImageViewer\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 220,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 245,
+                    "endLine": 12,
+                    "endColumn": 12,
+                    "endOffset": 635
+                },
+                "from": {
+                    "file": "C:\\Users\\srivatsam\\Downloads\\MySwipeImageViewerProject-master\\MySwipeImageViewerProject-master\\MySwipeImageViewer\\build\\intermediates\\exploded-aar\\net.hockeyapp.android\\HockeySDK\\3.7.1\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 445
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 640,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 1275
+                },
+                "from": {
+                    "file": "C:\\Users\\srivatsam\\Downloads\\MySwipeImageViewerProject-master\\MySwipeImageViewerProject-master\\MySwipeImageViewer\\build\\intermediates\\exploded-aar\\net.hockeyapp.android\\HockeySDK\\3.7.1\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 450,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 1085
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1280,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1423
+                },
+                "from": {
+                    "file": "C:\\Users\\srivatsam\\Downloads\\MySwipeImageViewerProject-master\\MySwipeImageViewerProject-master\\MySwipeImageViewer\\build\\intermediates\\exploded-aar\\net.hockeyapp.android\\HockeySDK\\3.7.1\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1090,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 1233
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\build\intermediates\exploded-aar\net.hockeyapp.android\HockeySDK\3.7.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="83c941392b8746e8661c25a010852a9d99c09fb7">
+        <dex dex="C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\build\intermediates\pre-dexed\debug\classes-18fc9f79fe951e3b06b9071711a314b8d14f29aa.jar" />
+    </item>
+
+</items>

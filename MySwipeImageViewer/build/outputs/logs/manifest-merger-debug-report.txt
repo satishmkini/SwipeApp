@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\src\main\AndroidManifest.xml:2:1-33:12
+	xmlns:android
+		ADDED from C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\src\main\AndroidManifest.xml:3:5-45
+	android:versionName
+		ADDED from C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [net.hockeyapp.android:HockeySDK:3.7.1] C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\build\intermediates\exploded-aar\net.hockeyapp.android\HockeySDK\3.7.1\AndroidManifest.xml:8:5-10:41
+	android:targetSdkVersion
+		ADDED from C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\src\main\AndroidManifest.xml:11:5-31:19
+MERGED from [com.android.support:support-v4:24.0.0-alpha1] C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
+MERGED from [net.hockeyapp.android:HockeySDK:3.7.1] C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\build\intermediates\exploded-aar\net.hockeyapp.android\HockeySDK\3.7.1\AndroidManifest.xml:16:5-22:19
+	android:label
+		ADDED from C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\src\main\AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\src\main\AndroidManifest.xml:13:9-40
+	android:theme
+		ADDED from C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\src\main\AndroidManifest.xml:15:9-40
+	tools:ignore
+		ADDED from [net.hockeyapp.android:HockeySDK:3.7.1] C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\build\intermediates\exploded-aar\net.hockeyapp.android\HockeySDK\3.7.1\AndroidManifest.xml:16:18-44
+activity#com.example.myswipeimageviewer.MainActivity
+ADDED from C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\src\main\AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\src\main\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\src\main\AndroidManifest.xml:17:13-71
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\src\main\AndroidManifest.xml:22:27-74
+activity#com.example.myswipeimageviewer.SlideActivity
+ADDED from C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\src\main\AndroidManifest.xml:25:9-28:20
+	android:label
+		ADDED from C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\src\main\AndroidManifest.xml:27:13-57
+	android:name
+		ADDED from C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\src\main\AndroidManifest.xml:26:13-72
+meta-data#net.hockeyapp.android.appIdentifier
+ADDED from C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\src\main\AndroidManifest.xml:29:9-122
+	android:name
+		ADDED from C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\src\main\AndroidManifest.xml:29:20-70
+	android:value
+		ADDED from C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\src\main\AndroidManifest.xml:29:71-119
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [net.hockeyapp.android:HockeySDK:3.7.1] C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\build\intermediates\exploded-aar\net.hockeyapp.android\HockeySDK\3.7.1\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [net.hockeyapp.android:HockeySDK:3.7.1] C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\build\intermediates\exploded-aar\net.hockeyapp.android\HockeySDK\3.7.1\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [net.hockeyapp.android:HockeySDK:3.7.1] C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\build\intermediates\exploded-aar\net.hockeyapp.android\HockeySDK\3.7.1\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from [net.hockeyapp.android:HockeySDK:3.7.1] C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\build\intermediates\exploded-aar\net.hockeyapp.android\HockeySDK\3.7.1\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [net.hockeyapp.android:HockeySDK:3.7.1] C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\build\intermediates\exploded-aar\net.hockeyapp.android\HockeySDK\3.7.1\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from [net.hockeyapp.android:HockeySDK:3.7.1] C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\build\intermediates\exploded-aar\net.hockeyapp.android\HockeySDK\3.7.1\AndroidManifest.xml:14:22-78
+activity#net.hockeyapp.android.UpdateActivity
+ADDED from [net.hockeyapp.android:HockeySDK:3.7.1] C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\build\intermediates\exploded-aar\net.hockeyapp.android\HockeySDK\3.7.1\AndroidManifest.xml:17:9-73
+	android:name
+		ADDED from [net.hockeyapp.android:HockeySDK:3.7.1] C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\build\intermediates\exploded-aar\net.hockeyapp.android\HockeySDK\3.7.1\AndroidManifest.xml:17:19-70
+activity#net.hockeyapp.android.FeedbackActivity
+ADDED from [net.hockeyapp.android:HockeySDK:3.7.1] C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\build\intermediates\exploded-aar\net.hockeyapp.android\HockeySDK\3.7.1\AndroidManifest.xml:18:9-75
+	android:name
+		ADDED from [net.hockeyapp.android:HockeySDK:3.7.1] C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\build\intermediates\exploded-aar\net.hockeyapp.android\HockeySDK\3.7.1\AndroidManifest.xml:18:19-72
+activity#net.hockeyapp.android.PaintActivity
+ADDED from [net.hockeyapp.android:HockeySDK:3.7.1] C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\build\intermediates\exploded-aar\net.hockeyapp.android\HockeySDK\3.7.1\AndroidManifest.xml:19:9-72
+	android:name
+		ADDED from [net.hockeyapp.android:HockeySDK:3.7.1] C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\build\intermediates\exploded-aar\net.hockeyapp.android\HockeySDK\3.7.1\AndroidManifest.xml:19:19-69
+activity#net.hockeyapp.android.LoginActivity
+ADDED from [net.hockeyapp.android:HockeySDK:3.7.1] C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\build\intermediates\exploded-aar\net.hockeyapp.android\HockeySDK\3.7.1\AndroidManifest.xml:20:9-72
+	android:name
+		ADDED from [net.hockeyapp.android:HockeySDK:3.7.1] C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\build\intermediates\exploded-aar\net.hockeyapp.android\HockeySDK\3.7.1\AndroidManifest.xml:20:19-69
+activity#net.hockeyapp.android.ExpiryInfoActivity
+ADDED from [net.hockeyapp.android:HockeySDK:3.7.1] C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\build\intermediates\exploded-aar\net.hockeyapp.android\HockeySDK\3.7.1\AndroidManifest.xml:21:9-77
+	android:name
+		ADDED from [net.hockeyapp.android:HockeySDK:3.7.1] C:\Users\srivatsam\Downloads\MySwipeImageViewerProject-master\MySwipeImageViewerProject-master\MySwipeImageViewer\build\intermediates\exploded-aar\net.hockeyapp.android\HockeySDK\3.7.1\AndroidManifest.xml:21:19-74
